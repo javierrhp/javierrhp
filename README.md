@@ -21,7 +21,7 @@ In this project, I specialized in high-performance C++ systems, focusing on the 
 ---
 
 ### 🛡️ Pollen Protector | Low-Level Hardware Development
-`Lead Assembly Programmer`  `Systems Architect`
+`Lead Assembly Programmer`  `Systems Engineer`
 
 Technical development of a game engine from the ground up for 8-bit hardware, focusing on mastering system constraints and manual resource allocation.
 
