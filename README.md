@@ -6,56 +6,67 @@
 
 ### 💻 Featured Projects
 
-#### 🏎️ Atomic Racers (2024 - 2025)
-*Physics Programmer / 3D Artist*
+---
 
-Developed core gameplay systems and physics integration for a high-speed racing title.
-`#C++` `#BulletPhysics` `#FMOD` `#ECS` `#MemoryManagement` `#OOP`
+### 🏎️ Atomic Racers | Physics Engine & Core Systems
+| `Programmer` | `Physics Developer` | `3D Artist` | `System Architect`
 
-* Built a custom **ECS (Entity Component System)** and event-driven architecture from the ground up.
-* Integrated and managed the full audio pipeline using **FMOD**.
-* Implemented 3D physics systems focusing on efficient resource allocation.
+In this project, I specialized in high-performance C++ systems, focusing on the bridge between physics simulation and custom engine architecture.
 
-#### 🛡️ Pollen Protector
-*System Architecture & Assembly Programmer*
-
-A technical challenge focused on squeezing performance out of extremely limited hardware.
-`#Assembly` `#Z80` `#LowLevel` `#HardwareOptimization` `#MemoryBanking`
-
-* Architected a functional **ECS** at the hardware level using **Z80 Assembly**.
-* Managed manual **Memory Banking** and CPU cycle optimization.
-* Developed the engine core without any external libraries or high-level abstractions.
-
-#### 🕹️ Pop Push
-*Gameplay & Physics Programmer*
-
-Focus on dynamic systems and custom collision logic under strict technical constraints.
-`#Assembly` `#Z80` `#CustomPhysics` `#ProceduralLogic` `#Optimization`
-
-* Designed and coded **custom physics and collision logic** from scratch.
-* Implemented a **dynamic generation system** for real-time hazard placement.
-* Optimized game logic to ensure low-latency response on limited hardware.
+* **⚙️ Core Engine:** Architected a modular **ECS (Entity Component System)** and a centralized event system in **C++**.
+* **🔋 Physics Integration:** Implemented 3D dynamics using **Bullet Physics**, ensuring stable interactions and efficient collision callbacks.
+* **🔊 Audio Pipeline:** Developed and managed the full sound engine integration utilizing **FMOD**.
+* **💾 Resource Management:** Applied strict **Manual Memory Management** and OOP principles to optimize system overhead.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛡️ Pollen Protector | Low-Level Hardware Development
+`Lead Assembly Programmer`  `Systems Architect`
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | `C++`, `C`, `Z80 Assembly` |
-| **Systems** | `ECS Architecture`, `Memory Management`, `Hardware Constraints` |
-| **Logic/Math** | `Custom Physics`, `Collision Detection`, `Data-Oriented Design` |
-| **Tools** | `Git`, `Bullet Physics`, `FMOD`, `RGBDS` |
+Technical development of a game engine from the ground up for 8-bit hardware, focusing on mastering system constraints and manual resource allocation.
 
----
-
-### 🔍 Core Philosophy
-* **From Scratch:** I prefer understanding the "how" and "why" by building systems without black-box libraries.
-* **Hardware First:** Writing code that respects and maximizes the available hardware resources.
-* **Precision:** Debugging at the pointer level and prioritizing memory efficiency.
+* **📜 Bare-Metal Programming:** Developed entirely in **Z80 Assembly (.asm)**, implementing the full game logic without high-level abstractions or external libraries.
+* **⚙️ Core Architecture:**
+    * 🏗️ Engineered a custom **ECS (Entity Component System)** tailored for 8-bit registers and limited memory layout.
+    * 👾 Developed complex **AI & Enemy Generation** systems optimized for real-time performance.
+* **💾 Memory Management:** * 📉 Handled manual **Memory Banking** and stack pointer manipulation to maximize the 64KB addressable space.
+    * ⚡ Focused on **Instruction Optimization** and CPU cycle management to ensure stable frame rates on legacy hardware and maximize performance on restricted hardware.
 
 ---
 
-### 📫 Let's Connect
+### 🛡️ Pollen Protector | Hardware-Level Development
+`Role: Assembly Programmer`  `Role: Systems Engineer`
+
+A deep dive into hardware constraints, developing a complete game engine at the instruction level (Z80).
+
+* **📜 Low-Level Logic:** Programmed entirely in **Z80 Assembly**, bypasssing libraries to communicate directly with the hardware.
+* **🧠 System Design:**
+    * 🛠️ Engineered a lightweight **ECS architecture** optimized for 8-bit registers and limited RAM.
+    * 👾 Developed custom **collision detection** and game logic routines from scratch.
+* **📉 Optimization:** Focused on **Memory Banking** and CPU cycle management to maximize performance on restricted hardware.
+
+---
+
+### 🕹️ Pop Push | Custom Physics & Logic
+`Role: Gameplay Programmer`  `Role: Physics Developer`
+
+Focusing on procedural logic and real-time physics calculation within binary constraints.
+
+* **🧩 Proprietary Physics:** Developed a **custom physics and collision engine** from the ground up in Assembly.
+* **⚙️ Dynamic Generation:** Implemented a real-time system for **procedural hazard generation** (spikes).
+* **💾 Bit-Level Precision:** Handled all gameplay logic with a focus on memory footprint and instruction efficiency.
+
+---
+
+### 🧰 Technical Toolbox
+
+* **Languages:** `C++ (Modern)`, `C`, `Z80 Assembly`
+* **Specialties:** `Manual Memory Management`, `Data-Oriented Design (ECS)`, `Physics Programming`
+* **Software:** `Bullet Physics`, `FMOD`, `Git`, `RGBDS`
+
+---
+
+### 📫 Contact & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU_EMAIL@GMAIL.COM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:herreroponcejavier@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF4B4B.svg?style=flat&logo=itch.io&logoColor=white)](TU_LINK_DE_ITCHIO_AQUI)
