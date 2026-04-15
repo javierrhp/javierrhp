@@ -6,7 +6,6 @@
 
 ### 💻 Featured Projects
 
----
 
 ### 🏎️ Atomic Racers | Physics Engine & Core Systems
 | `Programmer` | `Physics Developer` | `3D Artist` | `System Architect`
@@ -65,6 +64,15 @@ Focusing on procedural logic and real-time physics calculation within binary con
 * **Software:** `Bullet Physics`, `FMOD`, `Git`, `RGBDS`
 
 ---
+
+### 🛠️ Technical Toolkit
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `C++`, `C`, `Z80 Assembly` |
+| **Systems** | `ECS Architecture`, `Memory Management`, `Hardware Constraints` |
+| **Logic/Math** | `Custom Physics`, `Collision Detection`, `Data-Oriented Design` |
+| **Tools** | `Git`, `Bullet Physics`, `FMOD`, `RGBDS` |
 
 ### 📫 Contact & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
