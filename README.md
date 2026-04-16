@@ -75,6 +75,6 @@ Focusing on procedural logic and real-time physics calculation within binary con
 | **Tools** | `Git`, `Bullet Physics`, `FMOD`, `RGBDS` |
 
 ### 📫 Contact & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-herrero-ponce-0349a3345/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:herreroponcejavier@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF4B4B.svg?style=flat&logo=itch.io&logoColor=white)](TU_LINK_DE_ITCHIO_AQUI)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF4B4B.svg?style=flat&logo=itch.io&logoColor=white)](https://javierrhp.itch.io/)
