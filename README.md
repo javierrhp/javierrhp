@@ -4,11 +4,11 @@
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Projects (IN PROGRESS)
 
 
 ### 🏎️ Atomic Racers | Physics Engine & Core Systems
-| `Programmer` | `Physics Developer` | `3D Artist` | `System Architect`
+`Programmer` `Physics Developer` `3D Artist` `System Architect`
 
 In this project, I specialized in high-performance C++ systems, focusing on the bridge between physics simulation and custom engine architecture.
 
